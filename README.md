@@ -19,8 +19,8 @@ You can connect with me on LinkedIn to stay updated with my latest projects and 
 
 ## Contact Information
 
-- **Email**: your.email@example.com
-- **Mobile**: +1 (123) 456-7890
+- **Email**: manikandan.k1207@gmail.com
+- **Mobile**: +91 73585 01827
 
 ## Languages and Tools
 
