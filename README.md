@@ -1,4 +1,4 @@
-![Custom Banner](https://github.com/manikandan255/README.md/raw/main/path/to/your/banner/image.png)
+![Custom Banner](https://github.com/manikandan255/README.md/raw/main/path/files/downloads/banner-bg)
 
 # Manikandan K - Frontend Web Developer
 
