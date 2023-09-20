@@ -15,7 +15,7 @@ I'm Manikandan K, a passionate frontend web developer with expertise in various 
 
 You can connect with me on LinkedIn to stay updated with my latest projects and web development journey:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandan-k01)
 
 ## Contact Information
 
