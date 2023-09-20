@@ -1,3 +1,5 @@
+![Custom Banner](https://github.com/manikandan255/README.md/raw/main/path/to/your/banner/image.png)
+
 # Manikandan K - Frontend Web Developer
 
 Welcome to my GitHub repository! Here you'll find a collection of projects and code related to my journey as a frontend web developer. Feel free to explore and get in touch if you have any questions or collaboration opportunities.
