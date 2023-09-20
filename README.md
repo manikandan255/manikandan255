@@ -38,6 +38,9 @@ Here are some of the languages and tools I work with:
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manikandan255&layout=compact&theme=dark)
+
 ## GitHub Stats
 
 ![Manikandan K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikandan255&show_icons=true&theme=dark)
