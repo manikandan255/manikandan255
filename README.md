@@ -2,6 +2,8 @@
 
 Welcome to my GitHub repository! Here you'll find a collection of projects and code related to my journey as a frontend web developer. Feel free to explore and get in touch if you have any questions or collaboration opportunities.
 
+![Profile Views](https://komarev.com/ghpvc/?username=manikandan255)
+
 ## About Me
 
 I'm Manikandan K, a passionate frontend web developer with expertise in various technologies and a strong commitment to open-source development. Here are some key highlights about me:
