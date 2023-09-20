@@ -22,7 +22,7 @@ You can connect with me on LinkedIn to stay updated with my latest projects and 
 ## Contact Information
 
 - **Email**: manikandan.k1207@gmail.com
-- **Mobile**: <a href="tel:+91 7358501827">+91 73585 01827</a>
+- **Mobile**: <a href="tel:+917358501827">+91 73585 01827</a>
 
 ## Languages and Tools
 
