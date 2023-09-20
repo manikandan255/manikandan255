@@ -1,3 +1,5 @@
+![Image Alt Text](https://github.com/manikandan255/manikandan255/blob/main/banner-bg.gif)
+
 https://github.com/manikandan255/manikandan255/blob/main/banner-bg.gif
 
 # Manikandan K - Frontend Web Developer
