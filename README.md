@@ -13,12 +13,6 @@ I'm Manikandan K, a passionate frontend web developer with expertise in various 
 - 🔗 Open Source Enthusiast: Actively contribute to and utilize open-source resources to enhance my skills and projects.
 - 📚 Always Learning: I believe in staying up-to-date with the latest web development trends and best practices.
 
-## Connect with Me
-
-You can connect with me on LinkedIn to stay updated with my latest projects and web development journey:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandan-k01)
-
 ## Contact Information
 
 - **Email**: manikandan.k1207@gmail.com
